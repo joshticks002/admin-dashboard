@@ -6,7 +6,7 @@ import UnselectRadioIcon from "../assets/unselectedRadio.svg";
 import SearchInput from "../components/general/SearchInput";
 import Mail from "../assets/mail.svg";
 import VisaIcon from "../assets/visa.svg";
-import MasterCardIcon from "../assets/masterCard.svg";
+import MasterCardIcon from "../assets/mastercard.svg";
 import PlusIcon from "../assets/plus.svg";
 import DownloadIcon from "../assets/btnDownload.svg";
 
