@@ -31,7 +31,7 @@ function Billing() {
       plan: "Standard Plan - Nov 2022",
       amount: "$8.00",
       date: "Nov 25, 2022",
-      status: "pending",
+      status: "paid",
       users: [Image03, Image05],
     },
   ];
